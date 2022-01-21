@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8dde64c.chunk.css",
-    "main.js": "/static/js/main.476ecb6c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.c517f74d.js",
+    "main.css": "/static/css/main.cf808e52.chunk.css",
+    "main.js": "/static/js/main.a6c05798.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.5069bd59.js",
     "static/css/2.2fcc2ac6.chunk.css": "/static/css/2.2fcc2ac6.chunk.css",
-    "static/js/2.51d583be.chunk.js": "/static/js/2.51d583be.chunk.js",
-    "static/js/3.c652c702.chunk.js": "/static/js/3.c652c702.chunk.js",
+    "static/js/2.bf22a008.chunk.js": "/static/js/2.bf22a008.chunk.js",
+    "static/js/3.ac987b22.chunk.js": "/static/js/3.ac987b22.chunk.js",
     "static/js/4.fc2d3378.chunk.js": "/static/js/4.fc2d3378.chunk.js",
     "static/js/5.5555d596.chunk.js": "/static/js/5.5555d596.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.51d583be.chunk.js.LICENSE.txt": "/static/js/2.51d583be.chunk.js.LICENSE.txt",
+    "static/js/2.bf22a008.chunk.js.LICENSE.txt": "/static/js/2.bf22a008.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/PermanentMarker.8e080925.ttf",
     "static/media/bundle.css": "/static/media/ico-search.33a10b50.svg",
     "static/media/article-img-1.fa5586b7.jpg": "/static/media/article-img-1.fa5586b7.jpg",
@@ -50,10 +50,10 @@
     "static/media/walletconnect-logo.a1119c9b.svg": "/static/media/walletconnect-logo.a1119c9b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c517f74d.js",
+    "static/js/runtime-main.5069bd59.js",
     "static/css/2.2fcc2ac6.chunk.css",
-    "static/js/2.51d583be.chunk.js",
-    "static/css/main.c8dde64c.chunk.css",
-    "static/js/main.476ecb6c.chunk.js"
+    "static/js/2.bf22a008.chunk.js",
+    "static/css/main.cf808e52.chunk.css",
+    "static/js/main.a6c05798.chunk.js"
   ]
 }

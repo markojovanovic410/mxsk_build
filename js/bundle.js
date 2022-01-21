@@ -3153,9 +3153,6 @@ $jsBtn.on('click', function (e) {
     connect();
   }
 });
-$(window).on('load', function (e) {
-  connectedState();
-});
 
 function connect() {
   ethereum.request({
